@@ -27,4 +27,6 @@ jam_kerja = float(input("Masukkan jumlah jam kerja: "))
 print(hitung_gaji(nama_karyawan, golongan, jam_kerja))
 print("TERIMAKASI")
 print("TERIMAKASI")
+print("TERIMAKASI")
+print("TERIMAKASI")
 
